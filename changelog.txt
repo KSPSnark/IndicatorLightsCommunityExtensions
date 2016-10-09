@@ -1,0 +1,4 @@
+Release v1.0
+* Initial release.
+* Includes support for Ven Stock Revamp (thanks to Kerbas_ad_astra)
+* Includes support for Impossible Innovations (thanks to Jiraiyah)

@@ -1,0 +1,7 @@
+echo Creating release file structure for $1
+mkdir -p $1/GameData/IndicatorLightsCommunityExtensions
+cp ../changelog.txt $1/GameData/IndicatorLightsCommunityExtensions
+cp ../LICENSE $1/GameData/IndicatorLightsCommunityExtensions
+cp ../README.md $1/GameData/IndicatorLightsCommunityExtensions
+cp -R ../patches $1/GameData/IndicatorLightsCommunityExtensions
+echo Done.
