@@ -1,3 +1,6 @@
+Release v1.1
+* Add patch for Mk1 command pod from Porkjet's PartOverhauls (thanks to SchwinnTropius)
+
 Release v1.0
 * Initial release.
 * Includes support for Ven Stock Revamp (thanks to Kerbas_ad_astra)
