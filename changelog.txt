@@ -1,3 +1,6 @@
+Release v1.3
+* Add patch for MKS construction ports (thanks to DStaal)
+
 Release v1.2
 * Add patch for MK1CabinHatch (thanks to SchwinnTropius)
 
