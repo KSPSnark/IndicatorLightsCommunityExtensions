@@ -1,3 +1,7 @@
+Release v1.3.1
+* Minor fixes to work with ModuleManager 3.0 and later.
+* Thanks to Murdabenne, Skalou, and SchwinnTropius for spotting problems & testing fixes.
+
 Release v1.3
 * Add patch for MKS construction ports (thanks to DStaal)
 
