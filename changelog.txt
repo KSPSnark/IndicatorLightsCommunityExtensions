@@ -1,3 +1,7 @@
+Release v1.5
+* Add patches for Station Science (thanks to Tonka Crash).
+* Add patch for K-2 Command Pod (thanks to VoidSquid).
+
 Release v1.4
 * Add patch for MSP-3000 Material Science Pod (thanks to The-Grim-Sleeper).
 
