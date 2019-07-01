@@ -1,3 +1,6 @@
+Release v1.6
+* Add patch for ReStock and ReStock+ (thanks to UnanimousCoward).
+
 Release v1.5
 * Add patches for Station Science (thanks to Tonka Crash).
 * Add patch for K-2 Command Pod (thanks to VoidSquid).
