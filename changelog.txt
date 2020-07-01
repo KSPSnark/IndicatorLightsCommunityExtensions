@@ -1,3 +1,6 @@
+Unofficial by Linuxgurugamer
+ * Merged in several patches sitting on Github
+ 
 Release v1.6
 * Add patch for ReStock and ReStock+ (thanks to UnanimousCoward).
 
